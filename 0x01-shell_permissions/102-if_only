@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty hello
+su -c 'chown betty hello' guillaume
