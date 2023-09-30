@@ -1,2 +1,2 @@
 #!/bin/bash
-umask 0751 my_dir
+umask -m 0751 my_dir
