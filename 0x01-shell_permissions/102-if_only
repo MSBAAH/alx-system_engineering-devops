@@ -1,2 +1,2 @@
 #!/bin/bash
-su -c 'chown betty hello' guillaume
+su -c "chown betty hello" guillaume
