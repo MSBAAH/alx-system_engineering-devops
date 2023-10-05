@@ -1,2 +1,2 @@
 #!/bin/bash
-grep January iacta
+grep "January" iacta
