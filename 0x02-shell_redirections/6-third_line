@@ -1,2 +1,2 @@
 #!/bin/bash
-grep die iacta
+echo $(head -n 3 iacta | tail -1)
