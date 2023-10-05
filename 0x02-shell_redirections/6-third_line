@@ -1,2 +1,2 @@
 #!/bin/bash
-grep " (\"The die is cast\")" iacta
+grep ("The die is cast") iacta
